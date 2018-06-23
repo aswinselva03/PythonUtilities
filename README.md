@@ -1,2 +1,2 @@
 # PythonUtilities
-Scripts to automate day today tasks
+Python utilities to automate tasks. 
